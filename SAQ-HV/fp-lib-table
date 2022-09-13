@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SAQHV")(type "KiCad")(uri "${KIPRJMOD}/SAQHV.pretty")(options "")(descr ""))
+)

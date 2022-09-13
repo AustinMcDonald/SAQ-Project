@@ -1,0 +1,45 @@
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'win32'
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.7)
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x00000266E2D07550>
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U1 as a reference
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U1'
+Located on: ['Integrator']
+With filenames: ['Integrator.kicad_sch']
+With sheet_id:['Integrator']
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('U1', ['Integrator'])]
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(3313, 430)
+08-02 19:24:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(2949, 430)
+08-02 19:25:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'Integrator', file:'Integrator.kicad_sch'
+08-02 19:25:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[]
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'Integrator', file:'Integrator.kicad_sch'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[]
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 145:Replicating layout
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 146:Starting replication of sheets: []
+on level: ['Integrator']
+with tracks=True, zone=True, text=True, containing=True, remove=False, locked=False, by_group=False
+08-02 19:25:02 root 235:updating GUI message: 'Preparing for replication'
+08-02 19:25:02 root 240:updating GUI with: 0
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 215:Getting the list of source footprints
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 230:Getting the list of all the remaining footprints
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 235:Getting nets local to source footprints
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 238:Getting source bounding box
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 242:Getting source tracks
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 257:Getting source zones
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source text items
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source drawing items
+08-02 19:25:02 root 235:updating GUI message: 'Replicating footprints'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints
+08-02 19:25:02 root 235:updating GUI message: 'Replicating tracks'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks
+08-02 19:25:02 root 235:updating GUI message: 'Replicating zones'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 893:Replicating zones
+08-02 19:25:02 root 235:updating GUI message: 'Replicating text'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 963:Replicating text
+08-02 19:25:02 root 235:updating GUI message: 'Replicating drawings'
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings
+08-02 19:25:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 169:Replication complete

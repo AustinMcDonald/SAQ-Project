@@ -1,0 +1,18 @@
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'win32'
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.7)
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x00000136D96FC430>
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U1 as a reference
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint CH9 does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U1'
+Located on: []
+With filenames: []
+With sheet_id:[]
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('U1', [])]
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(3281, 322)
+08-05 11:32:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(2917, 322)
+08-05 11:32:12 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 224:User canceled the dialog

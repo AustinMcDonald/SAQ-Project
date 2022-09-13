@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "SAQHV_Library")(type "KiCad")(uri "${KIPRJMOD}/SAQHV_Library.kicad_sym")(options "")(descr ""))
+)
