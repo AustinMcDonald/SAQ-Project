@@ -36,7 +36,7 @@
       8,
       9,
       10,
-      12,
+      11,
       13,
       14,
       15,
@@ -61,8 +61,8 @@
       35,
       36
     ],
-    "visible_layers": "ffcd7ff_7ffffffb",
-    "zone_display_mode": 0
+    "visible_layers": "ffcd7ff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "SAQ-Readout.kicad_prl",
